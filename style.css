@@ -230,23 +230,19 @@ p{
     }
 
     footer{
-        background: rebeccapurple;
         margin-top: 45%;
         width: 100%;
     }
 
     .web{
-        background: yellow;
         width: 40%;
     }
 
     h4{
-        background: red;
         width: 30%;
     }
 
     p{
-        background: greenyellow;
         width: 70%;
     }
 }
@@ -396,7 +392,6 @@ p{
     }
 
     h2{
-       background: yellow;
        width: auto;
        margin-left: 0px;
     }
